@@ -53,6 +53,4 @@
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
