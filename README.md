@@ -9,20 +9,12 @@
     </a>
 </p>
 
-## 👨🏻‍💻 About Me:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" height="200" />
+#### SOFTWARE SKILLS
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,vite,mui,webpack&perline=20)](https://skillicons.dev)
 
-<br/>
-<br/>
-
-- 🌍 I'm Front-end developer from Uzbekistan
-- 🔭 I'm currently working on My project 
-- 👯 I'm looking to collaborate on Front-end project
-- 💬 Ask me about Front-end
-
-
-<br/>
+#### SOFTWARE TOOLS
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,powershell,stackoverflow,vscode,netlify,vercel)](https://skillicons.dev)
 
 <details open="">
   <p align="center">
@@ -31,12 +23,6 @@
   </p>
     
  <br/>
-
-#### SOFTWARE SKILLS
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,vite,mui,webpack&perline=20)](https://skillicons.dev)
-
-#### SOFTWARE TOOLS
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,powershell,stackoverflow,vscode,netlify,vercel)](https://skillicons.dev)
 
 ## 📊 Github Stats ⚡
 
